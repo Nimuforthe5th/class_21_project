@@ -11,7 +11,7 @@ read  -p 'Number 2: ' num2
 
 echo -e " \n Please select an operation from the choices below:\n 1. Addition\n 2. Subtration\n 3. Multiplication\n 4. Division\n 5. Module" 
 
-read -p "Select arithmetic choice between [1-5]" operation
+read -p "Select arithmetic choice between [1-5]: " operation
 
 if [ $operation = 1 ]
 then 
