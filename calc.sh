@@ -3,7 +3,7 @@
 # CALCULATOR FOR BASIC MATHEMATICS
 
 
-echo -e " CALCULATOR :)\n ----------------------------------------------------"
+echo -e " CALCULATOR\n ----------------------------------------------------"
 echo "PLEASE ENTER TWO NUMBERS OF CALCULATION"
 
 read -p 'Number 1: ' num1
