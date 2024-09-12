@@ -7,3 +7,5 @@ The function of this calculator is to:
     divide 2 numbers
 Clac documentations by Osenimu A
 Tester for git status
+
+this is used to write a comentary about your project

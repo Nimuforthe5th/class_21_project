@@ -3,7 +3,7 @@
 # this is a calculator that can solve addition, multiplication and division
 
 
-echo -e " Simple Calculator\n ........................................"
+echo -e " Simple Calculator\n ----------------------------------------------------"
 echo "Please input two number for calculation"
 
 read -p 'Number 1: ' num1
