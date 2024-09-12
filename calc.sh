@@ -37,7 +37,7 @@ then
  elif [ $operation = 5 ]
 then
         let Answer=$num1%$num2
- echo "$num1 % $num = $Answer"
+ echo "$num1 % $num2 = $Answer"
 
 else
 	echo -e "operation not supported,try inputing number between 1-5\n Exiting......"
