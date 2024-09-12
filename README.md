@@ -9,3 +9,7 @@ Clac documentations by Osenimu A
 Tester for git status
 
 this is used to write a comentary about your project
+
+We have made some improvements to the calculator
+We are giving clearer instructions for our users 
+These changes should make oout calculatore for efficient 

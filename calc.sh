@@ -1,17 +1,17 @@
 #!/bin/bash
 
-# this is a calculator that can solve addition, multiplication and division
+# CALCULATOR FOR BASIC MATHEMATICS
 
 
-echo -e " Simple Calculator\n ----------------------------------------------------"
-echo "Please input two number for calculation"
+echo -e " CALCULATOR :)\n ----------------------------------------------------"
+echo "PLEASE ENTER TWO NUMBERS OF CALCULATION"
 
 read -p 'Number 1: ' num1
 read  -p 'Number 2: ' num2 
 
 echo -e " \n Please select an operation from the choices below:\n 1. Addition\n 2. Subtration\n 3. Multiplication\n 4. Division\n 5. Module" 
 
-read operation
+read -p "Select arithmetic choice between [1-5]" operation
 
 if [ $operation = 1 ]
 then 
@@ -20,7 +20,7 @@ then
 
 elif [ $operation = 2 ]
 then
-        let Answer=$num1-$num2
+       let Answer=$num1-$num2
  echo "$num1 - $num2 = $Answer"
 	
 
@@ -37,10 +37,17 @@ then
  elif [ $operation = 5 ]
 then
         let Answer=$num1%$num2
- echo "$num1 % $num2 = $Answer"
+ echo "$num1 % $num = $Answer"
 
 else
 	echo -e "operation not supported,try inputing number between 1-5\n Exiting......"
 
 
 fi
+
+
+#This calculator has been improved
+#Some of the change made
+##include
+##different instructions 
+#and so much mor enjoy, practicing branching
