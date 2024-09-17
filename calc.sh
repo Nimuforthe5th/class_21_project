@@ -50,4 +50,4 @@ fi
 #Some of the change made
 ##include
 ##different instructions 
-#and so much mor enjoy, practicing branching
+#and so much more enjoy, practicing branching
