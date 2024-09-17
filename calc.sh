@@ -4,12 +4,12 @@
 
 
 echo -e " CALCULATOR\n ----------------------------------------------------"
-echo "PLEASE ENTER TWO NUMBERS OF CALCULATION"
+echo "PLEASE ENTER TWO NUMBERS FOR CALCULATION"
 
 read -p 'Number 1: ' num1
 read  -p 'Number 2: ' num2 
 
-echo -e " \n Please select an operation from the choices below:\n 1. Addition\n 2. Subtration\n 3. Multiplication\n 4. Division\n 5. Module" 
+echo -e " \n Please select an operation from the choices below:\n 1. Addition\n 2. Subtration\n 3. Multiplication\n 4. Division\n 5. Modulo" 
 
 read -p "Select arithmetic choice between [1-5]: " operation
 
