@@ -50,4 +50,10 @@ fi
 #Some of the change made
 ##include
 ##different instructions 
+<<<<<<< Updated upstream
 #and so much mor enjoy, practicing branching
+=======
+
+#and so much more enjoy, practicing branching
+
+>>>>>>> Stashed changes
